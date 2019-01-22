@@ -7,5 +7,6 @@ public class GitDemo01 {
 		System.out.println("i am zhangsan");
 		System.out.println("i am lisi");
 		System.out.println(22222);
+		System.out.println(111111);
 	}
 }
